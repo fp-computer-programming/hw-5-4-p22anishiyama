@@ -26,7 +26,7 @@ print(str(54321))
 
 # Question 8
 
-print("p" in "Pineapple")
+print("p" not in "Pineapple")
 
 # Question 9
 
